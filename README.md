@@ -6,7 +6,6 @@
 - 📫 How to reach me:  **renanjs_matos@hotmail.com**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/renanjsmatos </h3>
-![[Linkedin](https://www.linkedin.com/in/renanjsmatos/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <p align="left">
 </p>
 
