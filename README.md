@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript , TypeScript, React and nodeJS.**
 
-- 📫 How to reach me **renanjs_matos@hotmail.com**
+- 📫 How to reach me ![[Linkedin](https://www.linkedin.com/in/renanjsmatos/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/renanjsmatos</h3>
 <p align="left">
