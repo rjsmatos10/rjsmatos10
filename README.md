@@ -1,7 +1,7 @@
 
 ### Hey guys! :wave:
 My name is Renan, I have a degree in Systems Analysis and Development. 
-I am one of the winners of the IFood1000 scholarship where we have a Cubos Academy course focused on Backend with Nodejs
+I am one of the winners of the IFood1000 scholarship where we have a Cubos Academy course focused on Backend with Nodejs. Now I'm learning JAVA and soon I'll be posting new projects using it.
 
 To find me:
 
